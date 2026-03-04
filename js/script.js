@@ -3,7 +3,7 @@ const brianText = `<p>In 1961, scientists gathered to discuss <span>Extra-Terres
      -Brian Bauska March 4, 2026</p>`;
 
 // Function to insert brian's text into divs
-function insertPoemIntoDivs() {
+function insertTextIntoDivs() {
   // Get all .text divs
   const textDivs = document.querySelectorAll(".text");
 
@@ -14,7 +14,7 @@ function insertPoemIntoDivs() {
 }
 
 // Call the function when the DOM is fully loaded
-document.addEventListener("DOMContentLoaded", insertPoemIntoDivs);
+document.addEventListener("DOMContentLoaded", insertTextIntoDivs);
 
 const contentDiv = document.querySelector(".content");
 function adjustContentSize() {
