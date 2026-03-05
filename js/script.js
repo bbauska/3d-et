@@ -1,5 +1,8 @@
 // /js/script.js for 3d-et.bauska.org
-const brianText = `<p>In 1961, scientists gathered to discuss <span>Extra-Terrestrials</span> and data gathered up until then. They came to the conclusion there were between <span>2 and 3 MILLION</span> species of aliens in the <span>Milky Way Galaxy</span> ALONE! Not to mention the other trillion galaxies in the known universe. No wonder the World is being visited daily.
+const brianText = `<p>In 1961, scientists gathered to discuss <span>Extra-Terrestrials</span> and data gathered 
+up until then. They came to the conclusion there were between <span>30 and 40 MILLION</span> species of aliens 
+in the <span>Milky Way Galaxy</span> ALONE! Not to mention the other trillion galaxies in the known universe. 
+No wonder the World is being visited daily.
      -Brian Bauska March 4, 2026</p>`;
 
 // Function to insert brian's text into divs
