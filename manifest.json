@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "3D Extra-Terrestrial",
+  "short_name": "3D ET", 
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
